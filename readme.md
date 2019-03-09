@@ -20,4 +20,5 @@
             Input String:   ad1234 bye can!
             Output String:  1c4321yb 2yb1m!
             
-            ![Screen Shot 2019-03-08 at 11 44 46 PM](https://user-images.githubusercontent.com/32153064/54066384-ea4d2880-41fc-11e9-9bf8-7daa05c7b82c.png)
+![Screen Shot 2019-03-08 at 11 44 46 PM](https://userimages.githubusercontent.com/32153064/54066384-ea4d2880-41fc-11e9-9bf8-7daa05c7b82c.png)
+
